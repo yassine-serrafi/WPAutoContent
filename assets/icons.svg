@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <style>
+      .icon-primary { fill: #2271b1; }
+      .icon-secondary { fill: #72aee6; }
+    </style>
+  </defs>
+  
+  <!-- WPAutoContent Icon -->
+  <g id="apiapu-icon">
+    <rect x="3" y="3" width="18" height="18" rx="2" class="icon-secondary" opacity="0.3"/>
+    <path d="M7 8h10v2H7zM7 12h7v2H7zM7 16h10v2H7z" class="icon-primary"/>
+    <circle cx="18" cy="6" r="3" class="icon-primary"/>
+    <path d="M17 5.5l.5.5 1.5-1.5" stroke="#fff" stroke-width="0.5" fill="none"/>
+  </g>
+</svg>
