@@ -6,6 +6,10 @@ WPAutoContent transforme une liste de mots-clés en articles de blog structurés
 
 Le principe directeur : **Google ne pénalise pas l'IA, il pénalise le contenu inutile produit en masse.** Le plugin maximise donc la qualité par article et conserve la relecture humaine comme garde-fou final.
 
+![Aperçu de WPAutoContent](assets/screenshots/C1S.png)
+
+![Aperçu 2 de WPAutoContent](assets/screenshots/C2S.png)
+
 ## ✨ Qualité de rédaction
 
 - 🌍 **Multilingue** : français, anglais, arabe
